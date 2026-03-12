@@ -1,8 +1,7 @@
-BOT DETECTION PROJECT VISION STATEMENT
-For: Target customer. 
-Who: Statement of need, who needs this
-The (product name), is a (category, site/app/tool/etc)
-That: Provides some benefit we describe
-Unlike: The alternatives that already exist
-Our Products: Is different in a way we describe. 
-
+Cross-Device Disk Visualizer, File Optimizer  
+For: 		Technical Computer users, Server manage, 
+Who: 		Those who have many devices to manage, servers, or old devices, and need to organize and manage space in a intuitive and straightforward method.
+The 		(product name), is a (category, site/app/tool/etc)
+That: 		Let's users visualize storage, manage file space, Better QOL, reading data across multiple machines, file path optimization, file safety parameters, remove in the program. 
+Unlike:		Prometheus, graphon, 
+Our Products: 	For more people to use, open source, free to use 
