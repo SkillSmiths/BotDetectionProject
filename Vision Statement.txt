@@ -3,5 +3,5 @@ For: 		Technical Computer users, Server manage,
 Who: 		Those who have many devices to manage, servers, or old devices, and need to organize and manage space in a intuitive and straightforward method.
 The 		(product name), is a (category, site/app/tool/etc)
 That: 		Let's users visualize storage, manage file space, Better QOL, reading data across multiple machines, file path optimization, file safety parameters, remove in the program. 
-Unlike:		Prometheus, Grafana, 
+Unlike:		Prometheus, Grafana, (Not concerned with network uptime, and downtime.)
 Our Products: 	For more people to use, open source, free to use 
